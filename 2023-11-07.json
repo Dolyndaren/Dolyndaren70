@@ -1,0 +1,26 @@
+{
+  "name": "Cora Walters",
+  "age": 45,
+  "address": {
+    "street": "Gina Trail",
+    "city": "Boktipir",
+    "state": "PA",
+    "zip": "49852"
+  },
+  "contact": {
+    "phone": "(705) 759-4588",
+    "servicePhone": "800531312"
+  },
+  "birthday": "1986-01-13T17:57:24.956Z",
+  "ip": "236.58.253.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Ot let mawgero ew fogkimim hapidso jo lacuhcok jemzu huj sisiceit wej eseozo. Pazsez woj kim atufer vib ga sa mi uvzucod do rava uheutjop. Gu eh worragur utsimbe anoonso tapju wenav umacom hevros gouv gofu kob kekkoga nuul me rug. Zekibrim se ud zoabibic faro ug veorde jigi efife uk kaw agtib vatiwi sikewehov oze ja igo. Pir zi nu elize butval delibej fe vetedo ichadu nej fela rohpok jebwo cabnoti dicnaiga mi.",
+    "bio": "Mupera sunij pidgetil udbu wuwgur sof se isa pepejolel tot iw lab et. Hubidanof pupibi asi uvzel adzubiw ted cirised juljer inu dadok kuf ledjuta fakuv jukfo caco ferac mahkawi. Uvogaf hu noemuuce dihvefu picaag ohdo hihbis menerega ileujwap lupnekud naw amumiju umekurgu udaki fab azufuzuh. Te lo jiwisto rehrenif jekupounu di pek otibarot vurnuv ceaje ga cu coctug fupogsec dezwah uf."
+  },
+  "apiKey": "bb3ea6c98c7c9255d0f5e19d9f415e9e472718386ce8d047c4d2a2594b1e42f2",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
