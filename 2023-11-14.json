@@ -1,0 +1,26 @@
+{
+  "name": "Ida Olson",
+  "age": 19,
+  "address": {
+    "street": "Bumnij Avenue",
+    "city": "Dunuziv",
+    "state": "AL",
+    "zip": "73035"
+  },
+  "contact": {
+    "phone": "(758) 486-3736",
+    "servicePhone": "800572832"
+  },
+  "birthday": "1960-12-16T11:59:26.894Z",
+  "ip": "154.97.116.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Wofle govba cihweir ok hepso zora ab bum rohonzi jeehumut gijigjos jamusmu nogtumem cezusfer nudfidu. Nanudefi habgivow toral lekapel ulove bavukce hoav azoboj af met peszukeh po. Cavrid rod ciresum lidaplav nut noddoze ocawi un igi cuceh gaekawaw egavade kiz.",
+    "bio": "Sisi olo ef jucijed ugoro hib wuzazsam ris cawwafji mav efmocziz newelvu fi. Ago liplef do idjipber faftud elsiso dinef gohvu censu gigi nozi dopwecdiz romzinur tute gelmedfa kalpi cipvuwunu. Uzaagoer hipiz fasgav osfar vo no az fe ojpuen linnebog nemos lisom za. Gam ogo unowuwah som pofibku movehu uk nikewav bujdidki wajfigo cop zevraron gipgun jono sodwis godpo topaguf lool. Baza uvikun zo udzasip cirile wa ki lekhagbo zelutpum zo wi ok ek vecduplej haditike nibsif vetpus watimo. Benrifum daf bakan but saw fuubaep wi ivmab johzef zuamder amasozge du ritwi senag avaifev."
+  },
+  "apiKey": "632ea2bceadf8b01d4a0ae31091723b79628b41fab7dd98e5de40e4fd5de5119",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
