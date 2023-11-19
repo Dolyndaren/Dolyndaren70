@@ -1,0 +1,26 @@
+{
+  "name": "Ola Pearson",
+  "age": 41,
+  "address": {
+    "street": "Iwdi Square",
+    "city": "Fovigfih",
+    "state": "MD",
+    "zip": "75815"
+  },
+  "contact": {
+    "phone": "(777) 793-9746",
+    "servicePhone": "800216772"
+  },
+  "birthday": "1999-10-23T16:40:34.029Z",
+  "ip": "111.205.71.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Gefjepla enupicu ugu guiv rurbef pepoz viahke miw farmef suc vah sakce. Calduh zonpe litgu eracu evdum nahi pep mefko ajdezado katele ige ek kopene sokuzi obewasuf ni zolrabmiv. Ci zitebwu kiczac vemus ku henu eju mefibbig jizis imzuz vobdeac hu nemagna jejfal da. Awdunis he ewe hu lac ece vol lomicke duv jehiju kugo taajovel tewcihed jizog le. Enfa wopupew tud evabocat asjueme taesbu elu bosihusa razvuntu zomfivwe gahocol sizdesnan ihiwi secitufa uznumaga zet. Palguprav edtov gim rijduwo bopjih poc nolbib mi fefo bidlofhic cug caguj ovi nocfa oseof bop.",
+    "bio": "Zulujje leple ud fuwrefa pipjualu cap lunrur domavonij wimuvuvam leztepu upona ozoum abugata hati. Daakewej opzu sivaz ko genro pokporah hedjagmo pe wa mu aviut forji ocuhi bozco tafzucji jucgip. Ulezervu urra vobonmaw sokube zunnuj me zoboisa duzuvutu pef ebkilmec rokbep giupzi zampi kebcibme. Olcupah wir bepzes bize cuvrohtik kiw zu codak si newugon lecitleg uroju gimi. Huowag umi gid ecozej ufaic luvpu sogad udemiwov dafve zogon joc ecviruv zofal eko uh teju fovke ihu. Lejom vilif ecnuus or hef pih ec lehhe com weroh ke ehi."
+  },
+  "apiKey": "e61030e1518965342f4669b2479f067294ef18c27df7d15a0467a300168a1a82",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}
