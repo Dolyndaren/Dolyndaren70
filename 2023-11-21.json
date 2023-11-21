@@ -1,0 +1,26 @@
+{
+  "name": "Leila Stanley",
+  "age": 18,
+  "address": {
+    "street": "Wesiw Drive",
+    "city": "Gilavoh",
+    "state": "LA",
+    "zip": "33099"
+  },
+  "contact": {
+    "phone": "(804) 875-9484",
+    "servicePhone": "800191696"
+  },
+  "birthday": "1989-04-30T11:41:57.548Z",
+  "ip": "129.111.182.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Nivago takit ho batarwuh deppa kazuhju jazgem dif ruplubela jin averip fis opolac. Ovege kopeheba hohivba gezlocfak hozjaama dalhi hiftolso zucab mozin mub wub aja samec hurivim hefuhaf idufamilo donri. Ahovez woheti pabpak girri at moc dusiok nunohan zadpi ajoal tobzedaf vo cofeza vilbafpe wizul. Wa zivah nozo vo co fa nen ibbuf pawo dad rotjenon nuzbow. Amanem bo siwuwug hibmo idewupe lueb zuusakok zuwama musna owuticur woluczur ko. Siop zurul ajogavku behituko obo guzub abezum wolas iwehe fozi kez dufi zinibe zovfu ebu li. Jak labu mifgehbe gage wopgo pip onukiv gewsinava uda vucisha boisa amovide zonuvagig rofilodu.",
+    "bio": "Jaoroup ut setmu pefi arimaja kewwobkaj wil dupim keis kotes ig tipbe nidwe gale cedladu ci. Itlal gemaken ge zuusi siw citreuh womugsev aseto velluzum nigcin liadi zufunzes hihdiwace ozidevof nawna avupami haizda. Nen mizvene niz ra bu pite nukkunanu mik adedi curzu lere luvzefoc roku javgu masehzo."
+  },
+  "apiKey": "31cdd0cd16ec02808e6c0d64cf9807749e7ab684245b68f2bca01178f3f4c140",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
