@@ -1,0 +1,26 @@
+{
+  "name": "Maurice Benson",
+  "age": 44,
+  "address": {
+    "street": "Malogu Park",
+    "city": "Hocahi",
+    "state": "CO",
+    "zip": "33578"
+  },
+  "contact": {
+    "phone": "(832) 312-2250",
+    "servicePhone": "800312312"
+  },
+  "birthday": "1967-10-08T14:00:22.934Z",
+  "ip": "45.72.70.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Sietnoc co wo lugenebi efhak navdo low sakucaejo ke en ka pa dubowuve kado. Boiganu uhah bum luv gideh konda udcus attawhus gac cukfij hirsobfuj pis hibnuh ici pafjiw. Sewmulep voudu jowe fes zijwor pa ge ucterim waf gah roksokak rev uhooke hindotev us.",
+    "bio": "Co rezi tirectop ripfa pokge mirva heli usegate kajiof govep raj cip musze wev vojdanap nor zu cup. Oc cizez hoforam je ewe pu hifac motvo fadac lup ceva pobhiol pu os nus. Wo wi ma jaofowo ferohicu gef devdindar pozo nik jo wo bopnogpo uve. Cibet cowukgoz duwjal kod jelereso keloav lokbe aci wicep paekepu miobe erlile did tacrew opocaaci ked."
+  },
+  "apiKey": "ffb57e4c0e0ff7e209e43bd2b96246f9ba1027e8b3be8c6e94a6e86474dba36a",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
