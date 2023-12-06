@@ -1,0 +1,26 @@
+{
+  "name": "Scott Moreno",
+  "age": 20,
+  "address": {
+    "street": "Esulak Heights",
+    "city": "Sovwiem",
+    "state": "LA",
+    "zip": "45612"
+  },
+  "contact": {
+    "phone": "(283) 778-6619",
+    "servicePhone": "800887494"
+  },
+  "birthday": "1981-05-02T03:57:29.956Z",
+  "ip": "183.193.147.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Kacluobi vi ro zejjap ci jif goup etjih bisu ala saflilo hoirlab utta ukrid. Naliziv demki vo hof re vanni botiw gajnoz pevig vamkova ake ugut rubuj koj zu nagi jutiwmif ecalfif. Behhebsi zen ucogoziw zousi mic huusojoc mihi le ves kibcajhuz dedidi mepnok giepaav so bojefuhe odgas nuvdok. Vovesce fer af faenri wati fousufa fa bo heuweida ekku buwic du. Topessu nafvi zisragib oh opheh dipo diipjo gaf mofutir towokpoj onfuv hew bev. Za nizahaj hoavira he onkuz rudagoz lalobgin ri iwezefreh linzalda rosag ifof ote ucova ar. Wuwu rijogbav bapgesak bojpoc zotweknic vitor ob mabvazkug mectemi hobagi ema weki bu po kefo duc ilunet paklivher.",
+    "bio": "Tok edcapup gus fi dij diw nidjotu ha foubi umruahu sucijfe uk ufufalbe. Pascozji usuzus ti fojolkub macew ive fev roda or gar po ido coghear ivpamuzi. Med lo fogik ho godu ze fekta lo esoja agavo kuwuf guebuus."
+  },
+  "apiKey": "0dd8435446d1560f43b28104f7170864de4fb84dab56f9980930c63c24e13b87",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
