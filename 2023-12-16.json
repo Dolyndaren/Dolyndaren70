@@ -1,0 +1,26 @@
+{
+  "name": "Jacob Romero",
+  "age": 31,
+  "address": {
+    "street": "Fugi Highway",
+    "city": "Jiltooz",
+    "state": "SD",
+    "zip": "85739"
+  },
+  "contact": {
+    "phone": "(562) 355-1581",
+    "servicePhone": "800973947"
+  },
+  "birthday": "1987-12-09T01:26:22.589Z",
+  "ip": "213.164.186.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Ba zelga robot izlun lu uwrurev gif tid wiema fugmej babo bor baf sadzek so feluzus falriw. Ig vuw iwamafa gahhafhem fedufvec ruudu meap me ji ha okco laovo. Ala faohu geflezom anpuula jiru ril alwih fipul lu sanuffec iro juwi lidkatbec ibvul od wiz. Lonure baljapu egenevam geseto revre jishizzo hezo cuzesga paluav kewehlog tawwez col jija eja.",
+    "bio": "Idunij sofpavnuc jabuber jetsewo kucbo dev di aza mo gacdo apbapaji eba fejupda. Pohoefe mueho favmor pejoheka vin jaboho rad cuvas agjo so ifo go uhifegi. Pevovuric ne azsemin he ta avre le zoti ozonehe te zavev ahudaol. Ucawit tin beinvuz ato moftaf ihu munwac uli ukzure vorzi jivac boswe gun. Vopab jecakzat daosigi ocedasif jubba corwadoje fa asaji id sadownuw cugma wi mif wojwawve civ wartazbul neto huvoh. Voimudi lutci pozo korho paoh nu dug oheolavi fusfik erwol gohvisic lufuput ke juddig."
+  },
+  "apiKey": "3401508f5a3fcf7a383dd4b9c4b18c5677e308df680fea8ebd2677d7d59136e7",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
