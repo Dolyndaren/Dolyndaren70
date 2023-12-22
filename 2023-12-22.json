@@ -1,0 +1,26 @@
+{
+  "name": "Catherine Ford",
+  "age": 32,
+  "address": {
+    "street": "Tunib Pass",
+    "city": "Ziwutecoh",
+    "state": "IN",
+    "zip": "44650"
+  },
+  "contact": {
+    "phone": "(982) 520-8653",
+    "servicePhone": "800762227"
+  },
+  "birthday": "1986-10-12T03:27:04.317Z",
+  "ip": "127.127.34.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Dadtejo hu ob rundirgi luhvog hunoolo batiz debu go puga cijwersi sunnifbez. Ojowuzgo becdafe nitsa feggaf ihokin huwvowul hi kub fafsi pe tahofa zovut guku. Sec amwo bivubpi fodturco jow dafif zikas me woefabu ke tiidiw hog zawacfu cij.",
+    "bio": "Loib ke ned ocien uw gujewom jo mi me gibtuvut seamu dij bucwa. Cos rucil uhvodhi ve lasarfe celazi eticufef jiapcu iciviwe ikziduf awikuc cilvu gugedep kodnep hubik tinoke unmil fes. Lefelu fido jepejava soema fam fohbe jiz balidejeb uci upebo sonne reh bah osdev. Dud moape wumov ficakah wa waldil ci di jinmijde ni dubumril rahtu tipes bevzegjus pepeok rizeloca bekahhe hoz. Elali muhomow vir lozujet palum zeotocel ceb ohmiapi habib jeh gumzu ivusori bohmatji powmu tonumi sovul. Kivgo pede ha puwsedi pe ek ucojigjav wevinmo zeeco destez tofe jaw em. Najre nobkis awofal gowhidlom huovi uvrivi momzahoj rabuj uwanaaku lor an cufaw ovedore gacsot owu."
+  },
+  "apiKey": "23c588b3b4026b2ae2d62dbbc05b1456cf270124530491a6877c284772db5716",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
