@@ -1,0 +1,26 @@
+{
+  "name": "Jesse Smith",
+  "age": 19,
+  "address": {
+    "street": "Kami View",
+    "city": "Amaolaaro",
+    "state": "MO",
+    "zip": "24619"
+  },
+  "contact": {
+    "phone": "(431) 309-9541",
+    "servicePhone": "800428892"
+  },
+  "birthday": "1981-08-22T15:30:35.073Z",
+  "ip": "242.170.0.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Forcesot gi jozod kacnov wepa vafo weftuvmo wor ap lapugnos gaisesa tulot va masgoh urekuj fo. Uve as kotowrev oki obubum ipi nam toz basise caon bumubwi pujnazad. Muwimrig jahaeke usadesowa halruz izuiwafeg aweil of hosasul az rucuginav viifra negneeda pug voofu gicbaule.",
+    "bio": "Zuf esdep riz supirse negefe gifcu rasapu kusup peraid tugcek noje tosufji er lerwosruk tukuhop. Ham holbeka obubiv uposu esbic gukejo fegoski beehimu ek wud esegatob nutnive. Souvena hecoptad mu oromiju mew ah cal obi omnuc loz al okeahop gihaze potobfop mij. Do cotinfis uwzu turlohol vona ze givha lonopima zopbi ba ged mehitto upi tuf ciot dunojveh wo."
+  },
+  "apiKey": "1cc2bf2686c7546d8da0e336469be904f95f7a398b8cae43557ad0a7e5b6531e",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
