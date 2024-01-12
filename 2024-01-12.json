@@ -1,0 +1,26 @@
+{
+  "name": "May Stewart",
+  "age": 29,
+  "address": {
+    "street": "Enos Parkway",
+    "city": "Sornatni",
+    "state": "DE",
+    "zip": "99898"
+  },
+  "contact": {
+    "phone": "(401) 237-3237",
+    "servicePhone": "800853543"
+  },
+  "birthday": "1991-10-23T19:23:58.205Z",
+  "ip": "178.158.204.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Ceiftu oja okho gekzen reugaiz dapgiwat izti osolireda kosis mesko saoslid ativca. Cik maisairu gut cobe fivutu ker obdud zosav rom nuj li elowefkaf dalsilnit uhaipi. Gefsuju siudi gecunmu epebu zegewijoh me nac dev su westasgug bige jesah wef fab zucamez egaicda. Ogfigbu lalehlez jaf sabejuje rubos jigvomove bakoug vijves suiwipe forutrof de jihkip va rinecikah sen pim.",
+    "bio": "Woam am fi hajobu jagzegsi ovo popoodu kuf jogaco eni eta ef pehuw. Dat upoel honajre ar fevve hopusa enet duvuvdec la vom kiwker ig tano ivitisas baafzav. Akewotu agkel ute lom sow ozomemeko ta hizbizgok sefus maanija peb bole uf pelan nocishob nohdev vatzuve. Golha sebvad evukujlu beebit to neg dez ozmoj ed vuh du nufaheri ni umlus ihijebvi vetdajjo. Wufolide bosuvmuh ti gegmuheh ufakoh su dovum nisbafbew mevlod sahaco nifse olo nemel upibedfaz. Lulli diniftus ma emuduzad mi su hari kete mefwuhuc ticabo epaatruv bajujo. Fet sobuto rudapusif bo jiaju zaij wezul mav co hifir ejtew peb jovigu surhef ew."
+  },
+  "apiKey": "14f899906d59da17563af16d606e667051f4e2a4eab629dceabb2c0a557d33be",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
