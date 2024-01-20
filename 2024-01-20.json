@@ -1,0 +1,26 @@
+{
+  "name": "Scott Terry",
+  "age": 49,
+  "address": {
+    "street": "Busnu Circle",
+    "city": "Bidevrur",
+    "state": "AL",
+    "zip": "26015"
+  },
+  "contact": {
+    "phone": "(823) 715-5335",
+    "servicePhone": "800122594"
+  },
+  "birthday": "1976-11-26T01:20:11.754Z",
+  "ip": "107.21.206.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Hibnowum zu coestih mezeca sa ruta nuzus akleczav epto we inegora detocid latigu. Or pabbuv jukpo kuzwa nowfu tan bemsajher ti anawu uso bu avvimlu. Zajvidju kucwalil ombaso ok nifli cupera aku cihuumu comucul hid zebtuk dahkipeg du pot me. Pejlejiro tid mikika eh de ehamofu va hi nipuj kezasuw uzaro ekub bewu weiraot mi cehfus. Ca lezmibjuc lihuc ut uzuba vod hu enku fafirwa libzot wa mo vafeku vifo sefrolho hefekhi.",
+    "bio": "Ikigugug kipif gamam siuw fevbewimu lalpe cukru wi suk asneseju deslu uvhowpab ze meeg fajtaw jeteboc cetijoaz fevzez. Wih hi oce inoepato segzo higec isoipoal ja vovuber itaewa ho kefisoge li ifsed uwre ij rotuobe asuler. Nevucu egetza nemiemo ukuz mucmad bohiri ande ru ireovfud uc rir lubokgog pabik odumazal be onbepad himi. Lowku lahnorwu ko vaf ti zano lopu uduheknuc omwotu bab lo ca ji ate sijgo."
+  },
+  "apiKey": "d9e6896b22a4c81d738e6a900ea55eaf75013a3d7b2c57d9f215f95f8b78e732",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
