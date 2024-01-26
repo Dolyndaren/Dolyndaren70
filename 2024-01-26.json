@@ -1,0 +1,26 @@
+{
+  "name": "Sue Conner",
+  "age": 27,
+  "address": {
+    "street": "Fuguf Street",
+    "city": "Lututu",
+    "state": "CO",
+    "zip": "51520"
+  },
+  "contact": {
+    "phone": "(574) 821-9725",
+    "servicePhone": "800973575"
+  },
+  "birthday": "1987-02-02T05:13:19.598Z",
+  "ip": "197.222.114.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Bit zen waw oka liofteb sulu gewunsi fow gawtev lonabfo ot emaedine jasazsep ega zabas. Fokvidpad wi no dowo waro le buj sonufuuc fos pe segjo saruzo motufa cilowa. Ersahis zos edipa sakev nisam womutape fi jocsotu losola em ve ogesalu. Fuv evuow tar lalwup padedgib wo azowi heconu ragkuw bet celga eneva zuema piveh vupceljod urabiime ec. Hu lagbaza ziucfuh upe jutwu codeg bibeplu id jar zigniteh cubi lorrij vewiz.",
+    "bio": "Lifodbi hinak ittewa foorujij agotutkej kovgu sas urazile mo on zig puk kujuneno. Edi ej ucoeza lossardu hozow fom favosvo suhafid ussek dis tacsaizi zakiz nepmurabu idi. Cag tu betpow bap pij opgog fez gowetgaf co kaolu efi som."
+  },
+  "apiKey": "f12b889c4520006886ebd933f9574240ee44e6814ef3e59757965b8f427e5b6d",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
