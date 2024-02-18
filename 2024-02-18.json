@@ -1,0 +1,26 @@
+{
+  "name": "Mary Lyons",
+  "age": 33,
+  "address": {
+    "street": "Zero Key",
+    "city": "Lewsomnef",
+    "state": "MD",
+    "zip": "87555"
+  },
+  "contact": {
+    "phone": "(472) 448-5255",
+    "servicePhone": "800521584"
+  },
+  "birthday": "1968-04-07T11:30:39.084Z",
+  "ip": "176.82.33.93",
+  "foo": "bar",
+  "profile": {
+    "about": "Dow zuwiw jeffi us imibucab ulonoku turliko ce iweop di isaco bopcasilo geiviol ube najwodtuc az utjiimo. Leasus ci ak bowisdu wif voon cig za iva eko abamimu jukwikcud lobuk niag curgi edaese. Orajo ma kinus rudi gojlav vu diugo ow idpial won cujguzdi hecosec notkahoc. Re ucu zaksepov nujbugabi me momfojab ag fibufa soc rujgigvo lamjawro leomso saf atiece.",
+    "bio": "At ojmabzi muzwieg fahmafcaf opo lo ralve elude cun detzioz iseise sab hadnom ma wosi. Vafpub zade rar heekujel emfenga ba jebozetaz bipe macekev uw imjerwir hiivjeb keucitev tisekipa. Jivhi fi jawela woka ro gev luipvub bedemazev neuj alevo pizocmam igkupfe vu. Rer ta me zuditduk de pakvig cicif nivrasow desoppe meji opupihpoj gazsi wikoel cuw fig ogadij eme. Ha zapokvug sansaak sausof uzizo mared jej cuwocbo labonvid vulzeraz jenemhaj hif."
+  },
+  "apiKey": "7bb422a91888def04e988d7d3cf6d2e9940f9c08b1a6592f3b7fd6cd346f0064",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
