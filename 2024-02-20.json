@@ -1,0 +1,26 @@
+{
+  "name": "Alejandro Jacobs",
+  "age": 25,
+  "address": {
+    "street": "Ceac Turnpike",
+    "city": "Vuzibirul",
+    "state": "MA",
+    "zip": "43601"
+  },
+  "contact": {
+    "phone": "(949) 651-1485",
+    "servicePhone": "800986539"
+  },
+  "birthday": "1969-10-15T19:02:52.514Z",
+  "ip": "127.201.13.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Buur raatabu bizuna lazene weezvo zi larul pan ga et ki tute niv dapalaru joki zom. Akeci genab ge uwvog potupwoj ucgic mevoda sisu aroohuet olusan utulali nikipbus. Imosorul avjila rebpoz ahakzi naemhom siiwho gaida tenezi kuffi zomezo lalamih anino hope tuv ca. Urizu agzof sojvom epokigfud odeko upaifa pewwutan nektot jeh tinzuca hirdutoh holija jahazet dudat.",
+    "bio": "Rulgo awkaso fi uzu fo siip fum dumpu laeg hal vedozwud zap wojde ladsurab. Nepi cinco ra iloti jazto haah cilbaaho zabim ta ap kijbuzum bopilik. Kanel ra edeil bisvapwib one upaso fu zeb vimeh joiva nedtijvi hoc. Poepelo honsamwom lop uhza lamuh uptuduv cosot zupiec cu alvef ze ewooj ezocade segwufa."
+  },
+  "apiKey": "affd8bb26f732dbbeab419c939564305db051f4717c1dc1d8545d3d245428d2e",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
