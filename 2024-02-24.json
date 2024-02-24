@@ -1,0 +1,26 @@
+{
+  "name": "Ellen Jones",
+  "age": 56,
+  "address": {
+    "street": "Owak Drive",
+    "city": "Ijkike",
+    "state": "DE",
+    "zip": "09899"
+  },
+  "contact": {
+    "phone": "(960) 550-2742",
+    "servicePhone": "800936853"
+  },
+  "birthday": "1974-12-11T20:57:24.354Z",
+  "ip": "202.163.72.11",
+  "foo": "bar",
+  "profile": {
+    "about": "Kohcicsat zik haepihur ob kop sa gosuce cavohodiw macujeb kole le vi lavi ri hobcazu ilifiw. Ettobvo hurmo wameto menbi aduro nungarra kacuos oloaleno ha dim ago sol gekonsa pakrefis garo. Awe nam vucediufi wakgor tig fagvofuv cujun fifbama wokba ihazaon uz jod iw jeiwe bufu nouzahos.",
+    "bio": "Zelzoj jewpel zamov ude wet ome tevok dames lumvejum es emota zapanil borlupak ego. Gulrif kekpuv biodwev ki igranmoh zo urkitlas debcu le halel ohetobtek lasfacpo lesu japok. Efupelez afnu eblam betso ga ivfarpe upa wer facsivazu les ki apucaihe samem tecic dinbov. Kec tolmur ezore uj onaganbo iri iwdopob zo lac zaznep tugiwege kofid emeliem fumi uwaz zo lowakgac no."
+  },
+  "apiKey": "68d5b7ff8ebcc712176c38d953a21a4f3429602aaecc481ccb0c4b839825c871",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
