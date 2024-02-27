@@ -1,0 +1,26 @@
+{
+  "name": "Herman Diaz",
+  "age": 32,
+  "address": {
+    "street": "Lukot Boulevard",
+    "city": "Kevuzcec",
+    "state": "PA",
+    "zip": "01606"
+  },
+  "contact": {
+    "phone": "(830) 946-7889",
+    "servicePhone": "800514584"
+  },
+  "birthday": "1977-05-24T07:28:02.395Z",
+  "ip": "22.93.50.161",
+  "foo": "bar",
+  "profile": {
+    "about": "He mapi mon linelim wa japihi ciujkel omre hasi ijo rotimfa ela hihe diezo lolig. Jibhoh womo cit atliib jezawmut bo ejsillav epor zecze ceomtov run dur fot belor aloze ruhad fevlej. Am pocselhec ogze fiovana reajohit dejole zu sues bewwi eftarur zur bediclat ho. Ogamuvup zu vophosab nudhoj rebizfut cevse rozunupo jukvozu sal upi rimi mon mezikcoc peehewe jojujiw uf roduwwe. Marujagor cenat vumim unili ma vovecezo fiaj fuztukfo ja ot fu im haljipiz wepacuji.",
+    "bio": "Daocjuk wocoti rufwe loh falebu darnig iwoimma ol lo jebvarag sarmine hesre olioje membif govuiga. Ke jesej su lipvo houh lot pakes duj juru rabo afbozus si muof zomeman bajidlob si caf. Mal soprof zopgutora ope izzor owamid livehega difewmuz mo fumak ra zow."
+  },
+  "apiKey": "a5f4a3754314e8048f237b927c43ca2b1565f0fd0d0ad968b4be8f1048d765c0",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
