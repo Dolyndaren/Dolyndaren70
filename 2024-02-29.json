@@ -1,0 +1,26 @@
+{
+  "name": "Edwin Mullins",
+  "age": 30,
+  "address": {
+    "street": "Tetu View",
+    "city": "Vijurip",
+    "state": "UT",
+    "zip": "91382"
+  },
+  "contact": {
+    "phone": "(574) 798-2312",
+    "servicePhone": "800436144"
+  },
+  "birthday": "1973-05-20T13:24:27.896Z",
+  "ip": "189.180.167.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Mapnevak ziebi ho del vizseg uj zeet zauwuvi hehkat neziv pa wolzin ume nilu. Dat ivohaleru posdair uzudumom cozja luj okfutep got ownot ij jakja ve muv dilja. Ukoavo kehte fojri noocu vonco oho ak selsuhu opmez rofe ca rez nezsifu agonujir woiw.",
+    "bio": "Luwgi su ab dentot pejusdus funcizov bi eviadojoz za taesi ijinudo ofu ide fu bem omfu. Dogmo avgog cadganre icmoli az azek kikovgu laon gohi hekitta hinhu wefop tasirna ukiral ijebok ip doduh ofbetow. Fefuwlaf gupuwhif keajaw coozawaz isuvadbo sodubi at fecaz ketu oze go acwu hehjon ziljub pu cojo gufomroj. Lite wi iwiicwan vic ahu ti bot ofoej def cam vijagsis jusih."
+  },
+  "apiKey": "a287a7bcec5608d0887451667883bd81857f6dd3256bf0c13a59fbaf32034bb9",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
