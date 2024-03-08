@@ -1,0 +1,26 @@
+{
+  "name": "Johanna Lane",
+  "age": 40,
+  "address": {
+    "street": "Budmah Highway",
+    "city": "Gupojoh",
+    "state": "AZ",
+    "zip": "02578"
+  },
+  "contact": {
+    "phone": "(976) 550-5712",
+    "servicePhone": "800762993"
+  },
+  "birthday": "1965-03-01T12:16:20.147Z",
+  "ip": "117.254.139.186",
+  "foo": "bar",
+  "profile": {
+    "about": "Faf voh isapavoc li lucarron jaskuf jom fimil zob zike hijmeudi wis zu tefudec howi. Ulgu bevma vunsijpi zos naw ipcuuh kojo owi pun hike unukatez sobol giwiw joucsav uruco. Jozfac hukumu ite nu netsi kovu kon uj juza lohes umajahbo ilicita sat echo re ha mul. Jises navunece iwo ruhap kickalwud ubru how siol unofug ki ki emahe offi otbub sulagvib jevfamvuz fo. Puwcuj tassidhu sujpuke fithed zivtouru ne favimboh ercearu baw bimivjo lul coofibof piwe wilkog onuwobiz. Ciksinid makalamo babeuca tegjaz juversid fu hok ita jabsapi liilrav ci hic nolawike la lakvecned bak ulvuwmif.",
+    "bio": "Om pi oge zezhi tunajkin tip piziwno wus poti cij lefpu neov jahbet awi hijenru nupmurju ehirapoj. Ijugoz maolabij timtu ci perkud acu du av duj mi ecmozmen weupa ba fav jeos lilnelom salpob cecliz. Ivpahhi ludzuuhe vutah zufakme relosito wavuvefaj tiode puk rimti caohi ho id nef lucpefim nef miso kobizej hurde."
+  },
+  "apiKey": "c5a00bc45130df479a4051f7e855bfbdf1d4ef03d48134a7d611faf56e03d214",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
