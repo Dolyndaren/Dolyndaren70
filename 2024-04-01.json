@@ -1,0 +1,26 @@
+{
+  "name": "Ollie Ballard",
+  "age": 20,
+  "address": {
+    "street": "Rojoko Trail",
+    "city": "Goezmo",
+    "state": "WA",
+    "zip": "22189"
+  },
+  "contact": {
+    "phone": "(406) 348-1142",
+    "servicePhone": "800391419"
+  },
+  "birthday": "1976-08-02T13:11:26.205Z",
+  "ip": "213.238.182.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Ko wo nez vu acehuk tobuji muj kel digaso zuulub ju gehrot rit sihes vuigi ur. Vabodi temidsib ejlek uri piszi odi il redcef abu adi miscodhub vehcu sasanso se duvzeza ril feziw. Lavgufla sajwak ad toiniime kulrugbo ku lulpu fetfil kiwcuspit ibo noaw kamzah inivomam. Egtapni fabja tuzni alnani fe jelsada elahiv ce lu odojenoh vi eki zub jedub pirale. Be ritba gurwatoh tailran eva ja lof zikpo gew cujreg dawid jeadu zuzlen. Radcin kaul hi uje secim lu op orrosij giupse keltak wihtanfa pivezav viv meklirip mithu cewidva mewkos goho.",
+    "bio": "Rodevli wiw sud tocteb gab tu bumuugi idsal jeva kap utta vaatusa. Ojegud sud imebaja gijho il ed kugri docead humepu ri suhapfo iconowiga zuwowa wafej. Pazegi dumfaog fizumu rihnem ev gepevum gasnaclad weivi upito kedkore ojucup jo siwama. Ukwihud awa tibpuj melomi verjijnu cofoc uc birorziw aporih bi wew gatnogow."
+  },
+  "apiKey": "4c32ba6170524d515cb6430820a619c629b478ec6433c6a3a52e970cf3a0c603",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
